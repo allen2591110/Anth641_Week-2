@@ -1,2 +1,3 @@
 # Anth641_Week-2
 This is a repository for the files and information used throughout the digital archaeology course at UWM. 
+My name is Christopher, I am a graduate student at UWM studying anthropology with a focus in Iron Age archaeology. My hope is to become a professor or educator of some kind and help expand people's perspective of history and humanity through the study of archaeology. I focus mainly with Celts and Norse, but I have a wide variety of historical and literature knowledge and I hope to use my knowledge of literature and religious studies to influence my archaeological endeavors. 
