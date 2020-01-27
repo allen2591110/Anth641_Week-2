@@ -1,0 +1,6 @@
+### Why I am Interested in Digital Archaeology
++ It will be helpful for my career
++ It will be useful for my Master's Thesis (And possibly my Doctoral thesis) 
++ There are many practical applications to help make academic knowledge more available to the public and I am all for increasing the ammount of shared knowledge and bringing more people to academia
+>You must be the best advocate for your own work, and for digital archaeology as method and practice. Whether you are utilizing data that already existed or creating a totally new dataset, your work can impact real people and your colleagues, and it is important to build not only a technical framework but social supports for your work. Another way of understanding this is that you are responsible for ensuring you actually reach the audience you identified while following Appleford and Giuliano’s project design principles (described in chapter 01.2). A successful digital archaeology project is one which is well-understood and well-regarded by colleagues.
+![alt text](https://upload.wikimedia.org/wikipedia/commons/8/86/Gundestrupkedlen-_00054_%28cropped%29.jpg)
